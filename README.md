@@ -18,8 +18,8 @@
 <hr />
 
 <div align="center">
-    <h4>🔭 I’m currently working on **Biochemstry stuff..**</h4>
-    <h4>🌱 I’m currently learning **ElectronJS, Svelte, Pandas**</h4>
+    <h4>🔭 I’m currently working on Biochemstry stuff..</h4>
+    <h4>🌱 I’m currently learning ElectronJS, Svelte, Pandas</h4>
 </div>
 
 <hr />
