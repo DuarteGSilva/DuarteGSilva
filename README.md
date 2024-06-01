@@ -1,6 +1,6 @@
 <br/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DuarteGSilva.DuarteGSilva&right_color=darkcyan" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DuarteGSilva.DuarteGSilva&right_color=darkcyan" alt="Visitor Count"/>
 
 <h1>Hi, I'm Duarte Silva! </h1>
 
@@ -28,10 +28,10 @@
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/duartegdsilva/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn link"/>
     </a>
     <a href="https://github.com/DuarteGSilva" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="Github link"/>
     </a>
 </div>
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Some Languages/Frameworks/Tools I dabble in... ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,py,pycharm,mysql,windows,figma,lua,js,html,css,electron,svelte,nodejs,regex&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,pycharm,mysql,windows,figma,lua,js,html,css,electron,svelte,nodejs,regex&perline=7" alt="Logos for multiple tools/languages/frameworks"/>
 </div>
 
 <br/>
