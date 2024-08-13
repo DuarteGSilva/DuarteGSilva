@@ -5,7 +5,7 @@
 <h1>Hi, I'm Duarte Silva! </h1>
 
 <div align="">
-<h3>I'm a 🧪Biochemstry🧬 student that also dabbles in: </h3>
+<h3>I'm a 🧪Biochemstry🧫 graduate and 💊Biotech🧬 MSc student that also dabbles in: </h3>
     <h4>
         <ul>
             <li>💻 Computer Science</li>
@@ -18,8 +18,8 @@
 <hr />
 
 <div align="center">
-    <h4>🔭 I’m currently working on Biochemstry stuff..</h4>
-    <h4>🌱 I’m currently learning ElectronJS, Svelte, Pandas</h4>
+    <h4>🔭 I’m currently working on University stuff..</h4>
+    <h4>🌱 I’m currently learning Pandas, Tensorflow, Apache Cordova, ...</h4>
 </div>
 
 <hr />
