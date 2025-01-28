@@ -19,7 +19,7 @@
 
 <div align="center">
     <h4>🔭 I’m currently working on University stuff..</h4>
-    <h4>🌱 I’m currently learning Pandas, Tensorflow, Apache Cordova, ...</h4>
+    <h4>🌱 I’m currently learning Pandas, Pytorch, Flask, ...</h4>
 </div>
 
 <hr />
